@@ -1,5 +1,5 @@
 #by year#
-Fish_meta <- read.csv("C:/GitHub/FRI_LWReg/data/FinalFish.csv")
+Fish_meta <- read.csv("~/GitHub/FRI_LWReg/data/FinalFish.csv")
 
 #Plot
 library(ggplot2)
